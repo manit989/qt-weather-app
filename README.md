@@ -70,4 +70,4 @@
 -   PySide6
 -   requests
 -   opengeocode
-- I am using my own api and it's free api so it has some limits to use your own api please edit widget.py def weather_button function accordingly.
+- I am using my own api and it's free api so it has some limits to use your own api please edit api key in  widget.py def weather_button function accordingly.
